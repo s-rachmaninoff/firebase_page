@@ -1,0 +1,9 @@
+@charset "EUC-KR";
+
+.title{
+	font-size: 100px;
+}
+.sub_title{
+	margin-top: 50px;
+	font-size: 30px;
+}
